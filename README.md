@@ -8,8 +8,8 @@ Step 1 - Install the necessary libraries.
 Step 2 - Ensure you have the en_core_web_sm model for spaCy.
 Step 3 - Replace the API key in the code with your valid AssemblyAI API key,if you want your private API to run.
 Step 4 - Run the script using a Jupyter notebook or any python paltform.
-Step 5 - The GUI window will appear. Use the "Browse" button to select a video file. Once selected, the video file   	 path will be displayed.
-Step 6 - Click the "Convert" button to initiate the conversion process. A progress bar will run during the 		 conversion.
-Step 7 - After completion, a message box will indicate whether the conversion was successful or if there was an 	 error.
+Step 5 - The GUI window will appear. Use the "Browse" button to select a video file. Once selected, the video file path will be displayed.
+Step 6 - Click the "Convert" button to initiate the conversion process. A progress bar will run during the conversion.
+Step 7 - After completion, a message box will indicate whether the conversion was successful or if there was an error.
 Step 8 - The transcript and extracted keywords will be printed to the console.
 Step 9 - The content will also be saved in a Word document named 'document.docx'.
